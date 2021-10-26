@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+
+<url>
+  <loc>https://capitalsoftware.com.ni/</loc>
+  <lastmod>2021-10-26T15:37:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+<url>
+  <loc>https://capitalsoftware.com.ni/contacto/</loc>
+  <lastmod>2021-10-26T15:37:36+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+<url>
+  <loc>https://capitalsoftware.com.ni/blog/</loc>
+   <changefreq>weekly</changefreq>
+  <lastmod>2021-10-26T15:37:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+
+</urlset>

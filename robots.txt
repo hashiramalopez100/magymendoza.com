@@ -1,0 +1,16 @@
+
+user-agent: *
+Disallow: /readme.html
+Disallow: /privacy.html
+Disallow: /wp?*
+Disallow: /a
+Disallow: /*|
+allow: /index.php/
+
+User-agent: Googlebot
+Disallow: /blog/
+allow: /blog/infraestructura
+
+
+User_agent: Binbot
+Disallow: /services/
